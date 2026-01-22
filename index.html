@@ -1,0 +1,15 @@
+---
+layout: default
+title: Reading Archive
+---
+
+<h1>Reading Archive</h1>
+<ul>
+  {% assign items = site.articles | sort: "date" | reverse %}
+  {% for a in items %}
+    <li>
+      <a href="{{ a.url | relative_url }}">{{ a.title }}</a>
+      {% if a.date %} — {{ a.date | date: "%Y-%m-%d" }}{% endif %}
+    </li>
+  {% endfor %}
+</ul>
