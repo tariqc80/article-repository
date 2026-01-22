@@ -1,3 +1,8 @@
+---
+title: "Hayek & Keynes"
+date: 2026-01-21
+---
+
 "You can ignore reality, but you cannot ignore the consequences of ignoring reality." Ayn Rand
 
 This isn’t collapse. It’s correction. The post-Cold War model—cheap labor, endless credit, hollowed industry, low defense, and high-margin illusions—was always brittle. It’s only now being recognized as unsustainable.
